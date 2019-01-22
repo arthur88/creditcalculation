@@ -14,7 +14,7 @@ const userdata = [];
 app.use(helmet());
 app.use(bodyParser.json());
 app.use(cors());
-app.use(morgan('combined'));
+//app.use(morgan('combined'));
 
 // retrieve all questions
 app.get('/', (req, res) => {
