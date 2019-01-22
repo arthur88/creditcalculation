@@ -18,3 +18,17 @@ Simple React/Node.js based credit calculation web app that has integrasted auth0
     * react-dom - React package for working with the DOM
     * react-router-dom - DOM bindings for React Router
     * react-scripts - Configuration and scripts for Create React App
+
+## Running    
+
+**Backend server**
+```bash 
+cd backend
+node src
+``` 
+
+
+**Frontend server** - from root folder
+```bash
+npm start
+```
