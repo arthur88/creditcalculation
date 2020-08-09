@@ -32,9 +32,3 @@ node src
 ```bash
 npm start
 ```
-
-## Views
-![Credit calculation page](http://webai.lt/gitimgs/credit_calculation_calculate.jpg)
-
-
-![Credit calculation user profile page](http://webai.lt/gitimgs/credit_calculation_user_profile.jpg)
